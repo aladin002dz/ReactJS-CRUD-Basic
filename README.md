@@ -25,7 +25,7 @@ create-react-app --help
 ```
   
 6- Create your first app:  
-```console
+```
 create-react-app my-app-name
 ```
   
